@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/thanhdoancong127/novel-backend.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/thanhdoancong127/novel-docs.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/thanhdoancong127/novel-infra.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/thanhdoancong127/novel-frontend.git
